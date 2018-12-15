@@ -21,3 +21,4 @@ Things I noticed:
                    This project strengthened my security awareness, relating to vulnerable open ports, database exfiltration, and application security management from a networking perspective.
                   
                   
+** UPDATE: Out of curiosity, I left the honeypots running for approximately 7 hours after submitting this write up and noticed there were a total of >34,00 attacks accumulated, close to 30,000 more than prior. The attack signatures don't seem to differ too much from what I saw before. I do see that different source IPs are trying consecutive port scans for longer periods of time. I will export the collected data a second time and upload the JSON file for those who wish to analyze the data further.
